@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/django-mysql-rest-api-angular-crud-example/
